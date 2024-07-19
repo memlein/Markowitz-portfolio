@@ -1,1 +1,2 @@
-Markowitz portfolio
+This project implements a Markowitz portfolio.
+You can create a portfolio using tickers, compute the efficient frontier, simulate portfolios, and compute the minium variance portfolio. You can also plot your results
